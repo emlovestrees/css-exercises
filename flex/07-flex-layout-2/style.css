@@ -39,6 +39,7 @@ body {
   min-height: 200px;
   flex: 1 1 auto;
   padding: 5px;
+  margin: 10px;
 }
 
 div {
@@ -46,7 +47,6 @@ div {
 }
 .content {
   flex-wrap: wrap;
-  gap: 16px;
   flex: 5 1 auto;
 }
 
