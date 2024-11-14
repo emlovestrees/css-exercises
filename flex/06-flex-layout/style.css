@@ -9,6 +9,8 @@ body {
 
 img {
   width: 600px;
+  display: flex;
+  justify-self: center;
 }
 
 button {
@@ -48,4 +50,5 @@ li {
 
 .content {
   text-align: center;
+
 }
